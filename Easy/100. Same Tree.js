@@ -5,6 +5,8 @@
 // Input: p = [1,2,3], q = [1,2,3]
 // Output: true
 
+//Easy
+// https://leetcode.com/problems/same-tree/
 
 /**
  * Definition for a binary tree node.

@@ -6,6 +6,8 @@
 // Input: head = [7,7,7,7], val = 7
 // Output: []
 
+// Easy
+// https://leetcode.com/problems/remove-linked-list-elements/
 
 /**
  * Definition for singly-linked list.

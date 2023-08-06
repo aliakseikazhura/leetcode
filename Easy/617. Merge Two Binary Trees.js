@@ -12,7 +12,7 @@
 // Input: root1 = [1], root2 = [1,2]
 // Output: [2,2]
 
-
+// Easy
 // https://leetcode.com/problems/merge-two-binary-trees/
 
 /**

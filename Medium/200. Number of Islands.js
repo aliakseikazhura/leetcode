@@ -19,6 +19,9 @@
 //   Output: 3
 
 
+// Medium
+// https://leetcode.com/problems/number-of-islands/
+
 /**
  * @param {character[][]} grid
  * @return {number}

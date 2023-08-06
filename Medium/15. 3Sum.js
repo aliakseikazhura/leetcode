@@ -15,7 +15,7 @@
 // Output: []
 // Explanation: The only possible triplet does not sum up to 0.
 
-
+// Medium
 // https://leetcode.com/problems/3sum/
 
 /**

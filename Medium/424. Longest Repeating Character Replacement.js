@@ -12,6 +12,8 @@
 // The substring "BBBB" has the longest repeating letters, which is 4.
 // There may exists other ways to achive this answer too.
 
+
+// Medium
 // https://leetcode.com/problems/longest-repeating-character-replacement/
 
 /**

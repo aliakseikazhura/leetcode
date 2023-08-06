@@ -8,6 +8,7 @@
 // Input: nums = [1,1,2]
 // Output: [1]
 
+// Medium
 // https://leetcode.com/problems/find-all-duplicates-in-an-array/
 
 /**

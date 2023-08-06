@@ -10,6 +10,9 @@
 // Explanation: There is a cycle in the linked list, where the tail connects to the 1st node (0-indexed).
 
 
+// Easy
+// https://leetcode.com/problems/linked-list-cycle/
+
 /**
  * Definition for singly-linked list.
  * function ListNode(val) {

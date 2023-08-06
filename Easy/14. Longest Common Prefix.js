@@ -10,7 +10,7 @@
 // Output: ""
 // Explanation: There is no common prefix among the input strings.
 
-
+// Easy
 // https://leetcode.com/problems/longest-common-prefix/
 
 

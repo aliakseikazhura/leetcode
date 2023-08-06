@@ -11,7 +11,7 @@
 // Output: [3.00000,14.50000,11.00000]
 
 
-
+// Easy
 // https://leetcode.com/problems/average-of-levels-in-binary-tree/
 
 /**

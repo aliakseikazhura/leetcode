@@ -6,6 +6,10 @@
 // Input: root = [2,1,3]
 // Output: [2,3,1]
 
+
+// Easy
+// https://leetcode.com/problems/invert-binary-tree/
+
 /**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {

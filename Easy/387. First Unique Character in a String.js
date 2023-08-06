@@ -6,6 +6,8 @@
 // Input: s = "aabb"
 // Output: -1
 
+//Easy
+// https://leetcode.com/problems/first-unique-character-in-a-string/
 
 /**
  * @param {string} s

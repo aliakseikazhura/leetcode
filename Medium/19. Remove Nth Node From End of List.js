@@ -7,6 +7,7 @@
 // Input: head = [1,2], n = 1
 // Output: [1]
 
+// Medium
 // https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
 /**
