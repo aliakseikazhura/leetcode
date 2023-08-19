@@ -27,8 +27,8 @@ var generateParenthesis = function(n) {
             return;
         }
 
-        if (open > 0) dfs( open - 1, close, current + "(")
-        if (close > open) dfs( open, close - 1, current + ")")
+        if (open > 0) dfs(open - 1, close, current + "(")
+        if (close > open) dfs(open, close - 1, current + ")")
     }
 };
 
