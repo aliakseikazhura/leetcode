@@ -26,7 +26,6 @@ var groupAnagrams = function(strs) {
     return Object.values(map);
 };
 
-
 var groupAnagrams = function(strs) {
     let res = {};
     for (let str of strs) {
