@@ -27,8 +27,6 @@ var groupAnagrams = function(strs) {
 };
 
 
-
-
 var groupAnagrams = function(strs) {
     let res = {};
     for (let str of strs) {
